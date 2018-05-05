@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoinX</string>
+    <string name="about">About</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="logo">Logo</string>
+    <string name="conv1">Convert to:</string>
+    <string name="clear">Clear</string>
+    <string name="hint">$ 0.00</string>
+    <string name="cash_symbol">$ %,.2f</string>
+    <string name="my_portfolio">My Portfolio</string>
+    <string name="date">Date</string>
+    <string name="message">This app was made by Luis Alberto Guerrero, PUCMM student enrolled in Telematics Engineering for Altice movil apps development course in 2018.</string>
+</resources>
